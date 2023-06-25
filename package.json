@@ -1,0 +1,16 @@
+{
+  "name": "random-str-msg-mh",
+  "version": "1.0.0",
+  "description": "Creando un paquete en NPM-Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Marcelo",
+  "license": "MIT",
+  "bin":{
+    "random-str-msg-mh": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
